@@ -9,7 +9,7 @@ The 6-year interval between the end of an age range and the beginning of another
 | 10 | 13 to 17|55369 |
 | 20 | 23 to 27|20958 |
 | 30 | 33 to 42|17311 |
-| Total | 13 to 42|90638 |
+| Total | 13 to 42|93638 |
 
 
 When using this dataset for academic purposes, please cite our article:
