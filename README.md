@@ -1,4 +1,4 @@
-# MQD-age-90k
+# MQD90k (MQD-age-90k)
 This data set consists of 93,638 entries from a social network where users write predominantly in Brazilian Portuguese. 
 
 It is divided into three classes: 10, 20, and 30, containing users of both genders with ages between 13 and 17, 23 to 27, and 33 to 42 years, respectively. 
