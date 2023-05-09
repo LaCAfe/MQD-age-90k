@@ -13,3 +13,17 @@ The 6-year interval between the end of an age range and the beginning of another
 
 
 When using this dataset for academic purposes, please cite our article:
+
+
+Carvalho, F., Junior, F.P., Ogasawara, E., Ferrari, L. and Guedes, G., 2023. Evaluation of the Brazilian Portuguese version of linguistic inquiry and word count 2015 (BP-LIWC2015). Language Resources and Evaluation, pp.1-20.
+
+```
+@article{carvalho2023evaluation,
+  title={Evaluation of the Brazilian Portuguese version of linguistic inquiry and word count 2015 (BP-LIWC2015)},
+  author={Carvalho, Flavio and Junior, Fabio Paschoal and Ogasawara, Eduardo and Ferrari, Lilian and Guedes, Gustavo},
+  journal={Language Resources and Evaluation},
+  pages={1--20},
+  year={2023},
+  publisher={Springer}
+}
+```
